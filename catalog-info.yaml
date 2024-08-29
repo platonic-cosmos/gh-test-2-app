@@ -6,7 +6,7 @@ metadata:
     "backstage.io/project": "png-gcp-learning-poc"
     "backstage.io/cloud-run": "gh-test-2"
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: monkmantra/gh-test-2-app
+    github.com/project-slug: platonic-cosmos/gh-test-2-app
     sonarqube.org/project-key: ltimindtreeSonarqube/gh-test-2
   links:
     - url: "https://gh-test-2-nraemwfzfa-uk.a.run.app"
